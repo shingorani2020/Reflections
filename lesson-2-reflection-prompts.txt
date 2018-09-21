@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git init turns a folder into a git repository which means that you can start
+ tracking files and changes to those files
+
+ How is the staging area different from the working directory and the
+ repository? What value do you think it offers?
+
+i am a potato
